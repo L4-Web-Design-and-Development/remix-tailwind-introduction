@@ -30,7 +30,8 @@ const InputComponent = () => {
             7. Moderate padding that is wider than it is tall - https://tailwindcss.com/docs/padding,
             8. Dark gray text - https://tailwindcss.com/docs/text-color,
             9. Light indigo placeholder text colour - https://tailwindcss.com/docs/placeholder-color,
-            10. On focus, the background should turn light blue and have a 1px blue border all round - https://tailwindcss.com/docs/hover-focus-and-other-states#focus, https://tailwindcss.com/docs/background-color, https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color,
+            10. On focus, the background should turn light blue and have a 1px blue border all round - https://tailwindcss.com/docs/hover-focus-and-other-states#focus, https://tailwindcss.com/docs/background-color, https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color
+            11. 16px padding all round - https://tailwindcss.com/docs/padding
           */}
           <input
             id="full_name"

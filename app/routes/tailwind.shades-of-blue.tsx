@@ -16,7 +16,7 @@ const ShadesOfBlue = () => {
           {/*
           --------------------------------------
           1. Create 10 boxes below that are 80px wide by 80px tall - https://tailwindcss.com/docs/width 
-          2. Each box should represent a shade of the blue color scheme - https://tailwindcss.com/docs/background-color#blue
+          2. Each box should have a background colour representing each shade of blue from the Tailwind colour palette - https://tailwindcss.com/docs/background-color#blue
           3. The first box should be the lightest shade of blue
           4. The last box should be the darkest shade of blue
           5. Each box should have a border radius of 4px - https://tailwindcss.com/docs/border-radius

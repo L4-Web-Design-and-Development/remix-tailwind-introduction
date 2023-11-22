@@ -20,7 +20,7 @@ const Buttons = () => {
             2. light blue text - https://tailwindcss.com/docs/text-color,
             3. 4px border radius - https://tailwindcss.com/docs/border-radius,
             4. 4px light blue left border - https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color,
-            5. 16px padding left and right, 32px padding top and bottom - https://tailwindcss.com/docs/padding,
+            5. 32px padding left and right, 16px padding top and bottom - https://tailwindcss.com/docs/padding,
         */}
           <div>
             <button className="">Submit</button>
@@ -30,7 +30,7 @@ const Buttons = () => {
             1. red text - https://tailwindcss.com/docs/text-color,
             2. 2px red border - https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color
             3. light red background - https://tailwindcss.com/docs/background-color,
-            4. 16px padding left and right, 32px padding top and bottom - https://tailwindcss.com/docs/padding,
+            4. 32px padding left and right, 16px padding top and bottom - https://tailwindcss.com/docs/padding,
         */}
           <div>
             <button className="">Cancel</button>
@@ -38,9 +38,9 @@ const Buttons = () => {
 
           {/* 
             1. light indigo background - https://tailwindcss.com/docs/background-color,
-            2. light-indigo bottom border - https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color,
+            2. indigo bottom border 2px - https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color,
             3. indigo text - https://tailwindcss.com/docs/text-color,
-            4. 16px padding left and right, 32px padding top and bottom - https://tailwindcss.com/docs/padding,
+            4. 32px padding left and right, 16px padding top and bottom - https://tailwindcss.com/docs/padding,
         */}
           <div>
             <button className="">Save</button>
@@ -48,7 +48,7 @@ const Buttons = () => {
 
           {/* 
             1. 8px border radius - https://tailwindcss.com/docs/border-radius,
-            2. 16px padding left and right, 32px padding top and bottom - https://tailwindcss.com/docs/padding,
+            2. 32px padding left and right, 16px padding top and bottom - https://tailwindcss.com/docs/padding,
             3. 24px font size - https://tailwindcss.com/docs/font-size,
             4. 600 font weight - https://tailwindcss.com/docs/font-weight,
             5. uppercase - https://tailwindcss.com/docs/text-transform,
