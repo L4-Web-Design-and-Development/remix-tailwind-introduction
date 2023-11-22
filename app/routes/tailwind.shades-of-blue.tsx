@@ -1,6 +1,6 @@
 const ShadesOfBlue = () => {
   return (
-    <main className="min-h-screen flex items-center justify-center">
+    <main className="min-h-screen flex items-center justify-center p-16">
       <div>
         <h1 className="text-4xl font-bold mb-8 text-white text-center">
           Shades of Blue

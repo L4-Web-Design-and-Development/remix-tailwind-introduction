@@ -8,7 +8,7 @@ export const meta: MetaFunction = () => [
 
 export default function Index() {
   return (
-    <main className="relative min-h-screen sm:flex sm:items-center sm:justify-center">
+    <main className="p-16 relative min-h-screen sm:flex sm:items-center sm:justify-center">
       <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">
         <div className="flex flex-col items-center">
           <div className="max-w-4xl flex flex-col items-center justify-center">

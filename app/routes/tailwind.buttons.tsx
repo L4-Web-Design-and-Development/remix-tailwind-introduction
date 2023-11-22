@@ -1,6 +1,6 @@
 const Buttons = () => {
   return (
-    <main className="min-h-screen flex items-center justify-center">
+    <main className="min-h-screen flex items-center justify-center p-16">
       <div>
         <h1 className="text-4xl font-bold mb-8 text-white">Buttons</h1>
         <p className="text-white mb-4 text-xl">
