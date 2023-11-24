@@ -15,7 +15,7 @@ export default function Index() {
             <h1 className="text-6xl leading-normal font-semibold text-transparent bg-clip-text bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-zinc-300 via-purple-300 to-stone-600 sm:text-center">
               Getting started with Remix and Tailwind
             </h1>
-            <p className="text-white text-center text-xl mt-8">
+            <p className="text-white tracking-wide text-center text-xl mt-8">
               Click a link below to open the challenge...
             </p>
           </div>
