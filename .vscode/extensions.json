@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "dsznajder.es7-react-js-snippets",
+    "bradlc.vscode-tailwindcss",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "prisma.prisma",
+    "qwtel.sqlite-viewer",
+    "yoavbls.pretty-ts-errors",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "PKief.material-icon-theme"
+  ]
+}
