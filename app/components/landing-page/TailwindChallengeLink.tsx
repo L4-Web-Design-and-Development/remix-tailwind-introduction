@@ -11,7 +11,7 @@ const TailwindChallengeLink = ({
 }: TailwindChallengeLinkProps) => {
   return (
     <Link to={url}>
-      <div className="flex justify-center items-center p-8 bg-zinc-200 transition-colors rounded-md w-28 h-28 text-center hover:bg-zinc-300">
+      <div className="flex justify-center items-center p-8 bg-zinc-200 transition-colors rounded-md w-36 h-36 text-center hover:bg-zinc-300">
         {children}
       </div>
     </Link>
