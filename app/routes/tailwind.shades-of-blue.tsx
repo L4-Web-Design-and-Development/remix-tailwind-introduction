@@ -15,7 +15,7 @@ const ShadesOfBlue = () => {
         <div className="grid grid-cols-5 gap-4">
           {/*
           --------------------------------------
-          1. Create 10 boxes below that are 80px wide by 80px tall - https://tailwindcss.com/docs/width 
+          1. Create 10 boxes (i.e. <div> elements) below that are 80px wide by 80px tall - https://tailwindcss.com/docs/width 
           2. Each box should have a background colour representing each shade of blue from the Tailwind colour palette - https://tailwindcss.com/docs/background-color#blue
           3. The first box should be the lightest shade of blue
           4. The last box should be the darkest shade of blue
