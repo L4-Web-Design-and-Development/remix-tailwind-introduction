@@ -16,13 +16,13 @@ const BlockGallery = () => {
           --------------------------------------
           1. Parent div must be 100% width - https://tailwindcss.com/docs/width
           2. Parent div must have an evenly distributed 3 column grid - https://tailwindcss.com/docs/grid-template-columns
-          3. Each square must be 96px wide and 96px tall - https://tailwindcss.com/docs/width and https://tailwindcss.com/docs/height
+          3. Each square inside the parent div must be 96px wide and 96px tall - https://tailwindcss.com/docs/width and https://tailwindcss.com/docs/height
           4. There must be an 8px gap between each square - https://tailwindcss.com/docs/gap
           5. Each square must have a 4px border radius - https://tailwindcss.com/docs/border-radius
           6. Letters in each square must be centered on the square vertically and horizontally - https://tailwindcss.com/docs/flex, https://tailwindcss.com/docs/justify-content and https://tailwindcss.com/docs/align-items
           --------------------------------------
         */}
-        <div className="grid ">
+        <div className="grid place-items-center">
           <div className="bg-teal-100">A</div>
           <div className="bg-teal-200">B</div>
           <div className="bg-teal-300">C</div>
