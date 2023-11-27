@@ -20,7 +20,7 @@ export default function Index() {
             </p>
           </div>
           <div className="mt-8 overflow-hidden shadow sm:rounded-lg">
-            <div className="grid grid-cols-3 gap-4">
+            <div className="grid grid-cols-3 gap-8">
               <TailwindChallengeLink url="/tailwind/shades-of-blue">
                 <p className="text-center text-sm font-semibold tracking-wide text-purple-950">
                   Shades of blue
