@@ -8,8 +8,6 @@
   npm i
   ```
 
-- Rename `.env.example` to `.env` so that the code can read your important project secret tokens and database locations.
-
 - Initial setup - build a starter database:
 
   ```sh
