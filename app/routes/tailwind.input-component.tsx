@@ -22,7 +22,7 @@ const InputComponent = () => {
           </label>
 
           {/* 
-            2. Input has top margin of 8px - https://tailwindcss.com/docs/margin
+            2. Input has top margin of 4px - https://tailwindcss.com/docs/margin
             3. Drop shadow - https://tailwindcss.com/docs/drop-shadow,
             4. Border width 1px indigo colour all way round - https://tailwindcss.com/docs/border-width and https://tailwindcss.com/docs/border-color,
             5. Large rounded corners - https://tailwindcss.com/docs/border-radius,
@@ -40,11 +40,14 @@ const InputComponent = () => {
           />
 
           {/* 
-            11. Button has top margin of 8px - https://tailwindcss.com/docs/margin,
+            11. Button has top margin of 16px - https://tailwindcss.com/docs/margin,
             12. Moderate padding that is wider than it is tall - https://tailwindcss.com/docs/padding,
             13. Dark blue background - https://tailwindcss.com/docs/background-color,
             14. Light blue text - https://tailwindcss.com/docs/text-color,
             15. Large rounded corners - https://tailwindcss.com/docs/border-radius
+            16. White text - https://tailwindcss.com/docs/text-color
+            17. Width fit content - https://tailwindcss.com/docs/width
+            18. Slightly lighter blue background on hover - https://tailwindcss.com/docs/hover-focus-and-other-states#hover
           */}
           <button className="">Save</button>
         </div>
