@@ -20,6 +20,7 @@ const BlockGallery = () => {
           4. There must be an 8px gap between each square - https://tailwindcss.com/docs/gap
           5. Each square must have a 4px border radius - https://tailwindcss.com/docs/border-radius
           6. Letters in each square must be centered on the square vertically and horizontally - https://tailwindcss.com/docs/flex, https://tailwindcss.com/docs/justify-content and https://tailwindcss.com/docs/align-items
+          7. Letters in each square must be bold - https://tailwindcss.com/docs/font-weight
           --------------------------------------
         */}
         <div className="grid place-items-center">
